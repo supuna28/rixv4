@@ -70,8 +70,8 @@ Hello ${name} ${ucapan()}
 *Found Bug?*
 ${userbot.prefix}report text
 
-*My Rest Api's*
-https://rizapi.herokuapp.com/
+*My group*
+https://chat.whatsapp.com/CIDWlH7yzEsKombRDcTKcV
 
 *Click the menu button below*`
 
