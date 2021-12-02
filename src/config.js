@@ -56,7 +56,7 @@ userbot = {
 
 Prem: JSON.parse(fs.readFileSync('./db/premium.json')),
 
- owner:  [ "94753943957", "15877941582"],
+ owner:  [ "94753943957", "94762028677"],
 
   MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
 
